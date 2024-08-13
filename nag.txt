@@ -1,7 +1,4 @@
 i naga
-<<<<<<< HEAD
-Hai nag i am in devlopment branch
-=======
 
+Hai nag i am in devlopment branch
 Hai naga i am in master
->>>>>>> master
