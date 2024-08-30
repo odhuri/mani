@@ -1,0 +1,8 @@
+echo "Hi logs"
+i=1
+if (i -eq 1000)
+then 
+echo "$i"
+else
+echo "thanks"
+fi
